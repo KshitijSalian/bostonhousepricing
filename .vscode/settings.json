@@ -5,6 +5,7 @@
         "coeficients",
         "conda",
         "DESCR",
+        "gunicorn",
         "iloc",
         "ipykernel",
         "jsonify",
