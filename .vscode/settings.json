@@ -1,9 +1,29 @@
 {
     "cSpell.words": [
+        "CHAS",
+        "coef",
+        "coeficients",
         "conda",
+        "DESCR",
+        "iloc",
+        "ipykernel",
+        "jsonify",
+        "kdeplot",
         "matplotlib",
         "numpy",
+        "pairplot",
+        "PTRATIO",
+        "pyplot",
+        "regmodel",
+        "regplot",
+        "seaborn",
         "sklearn",
-        "venv"
-    ]
+        "venv",
+        "xlabel",
+        "ylabel"
+    ],
+    "python.analysis.extraPaths": [
+        "./venv/Lib/site-packages"
+    ],
+    "python.analysis.typeCheckingMode": "off"
 }
